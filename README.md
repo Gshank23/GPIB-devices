@@ -1,4 +1,5 @@
 # GPIB-devices
-Python Automation works for controlling GPIB devices
-Python Oscilloscope
-Contains program for acquiring/plotting data points from an oscilloscope's channel 1 signal. 
+Python Automation works for controlling GPIB devices.
+Signal Generator.
+Contains python program for contacting a signal generator with basic commands over GPIB.
+
